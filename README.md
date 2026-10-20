@@ -10,8 +10,8 @@ M.Sc. Media Informatics student at Saarland University with a B.Sc. in Computer 
 
 ### Tools
 
-**Data:** Python (pandas, scikit-learn), SQL, PostgreSQL, Power BI (Power Query, DAX), Excel
-**Web:** React, Next.js, TypeScript, Tailwind CSS, Supabase
-**UX:** Figma, user research, usability testing, accessibility
+- **Data:** Python (pandas, scikit-learn), SQL, PostgreSQL, Power BI (Power Query, DAX), Excel
+- **Web:** React, Next.js, TypeScript, Tailwind CSS, Supabase
+- **UX:** Figma, user research, usability testing, accessibility
 
 📍 Germany · [Portfolio](https://salmanportfolio-inky.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/m-salman-bhatti/)
